@@ -1,1 +1,1 @@
-console.long("inicial")
+console.log("inicial")
